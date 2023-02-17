@@ -3,12 +3,12 @@ Proyecto JSON
 
 Enunciado: 
 
-Listar información: Muestra todas las
+1. Listar todos los objetos del inventario.
 
-Contar información: Farmacias que pertenezcan al distrito y barrio
-"La Salle", y que muestre su horario de apertura
+2. Contar todos los objetos del inventario.
 
-Buscar o filtrar:Pide por teclado un codigo postal, y se devuelve las
-farmacias que pertenezcan a ese cp, mostrando nombre, direccion y telefono.
-.
+3. Filtrar los objetos mostrando solamente su poder.
 
+4. Busca informacion relacionada a los efectos de los objetos.
+
+5. Indica el peso de los objetos.
